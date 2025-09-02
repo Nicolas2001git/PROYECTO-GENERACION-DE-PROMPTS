@@ -28,8 +28,13 @@ ZenPal propone un **acompañamiento digital básico** que ofrezca consejos simpl
 - `README.md` → Este archivo.
 ## 🚀 Cómo usar la demo
 ### Opción 1 — Google Colab (lo más simple)
-1. Subí `notebooks/ZenPal_ClienteFinal.ipynb` a **Google Drive**.  
-2. Abrila con **Colab** (clic derecho → *Abrir con → Colaboratory*).  
+**Desde google colab:**
+1. Buscá **“Google Colab”** en Google y abrí el primer resultado (Colaboratory).
+2. En Colab: **File → Upload notebook** (o “Subir cuaderno”) y elegí `notebooks/ZenPal_ClienteFinal.ipynb`.
+3. Ejecutá las celdas **en orden**.
+**O desde Google Drive:**
+1. Subí `notebooks/ZenPal_ClienteFinal.ipynb` a **Google Drive**.
+2. Click derecho → **Abrir con → Colaboratory (Colab)**.
 3. Ejecutá las celdas **en orden**.
 > Por defecto la notebook corre en **modo demo** (`USE_API = False`), sin gastar tokens.  
 > Para modo real, pegá tu **`OPENAI_API_KEY`** en la Celda 2 y poné `USE_API = True`.
