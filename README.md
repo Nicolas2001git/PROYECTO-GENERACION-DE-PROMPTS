@@ -20,8 +20,7 @@ ZenPal propone un **acompañamiento digital básico** que ofrezca consejos simpl
 - **Bibliotecas:** `openai`, `pandas`, `random`, `math`.  
 ## 📂 Contenido del repositorio
 - `notebooks/ZenPal_ClienteFinal.ipynb` → Notebook principal con la demo.  
-- `docs/` → Documentación extendida (introducción, objetivos, metodología, análisis de costos).  
-- `requirements.txt` → Librerías necesarias.  
+- `docs/` → Documentación extendida (introducción, objetivos, metodología, análisis de costos).   
 - `README.md` → Este archivo.
 ## 🚀 Cómo usar la demo
 ### Opción 1 — Google Colab (lo más simple)
