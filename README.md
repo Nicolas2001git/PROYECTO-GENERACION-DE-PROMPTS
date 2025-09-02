@@ -4,11 +4,8 @@
 El proyecto está orientado al área de **Psicología** y busca demostrar cómo el **Fast Prompting** puede aplicarse para crear un asistente que brinde mensajes motivacionales y recordatorios de bienestar de manera **rápida, clara y accesible**.
 ⚠️ **Aviso importante:** ZenPal es un **trabajo académico y demostrativo**.  
 **No reemplaza la ayuda psicológica real ni la atención profesional en salud mental.**
-## 🎯 Objetivos
-- Aplicar los principios de **Fast Prompting** en un caso práctico.  
-- Experimentar con diferentes formas de redactar prompts para mejorar eficacia y costos.  
+## 🎯 Objetivos  
 - Mostrar el funcionamiento en una **notebook interactiva** con ejemplos en tiempo real.  
-- Comparar los resultados con la **Preentrega 1** y analizar las mejoras obtenidas.
 ## 📝 El problema
 Muchas personas enfrentan **estrés, ansiedad o bloqueo** en su vida cotidiana y no siempre tienen acceso inmediato a apoyo profesional.  
 ZenPal propone un **acompañamiento digital básico** que ofrezca consejos simples y mensajes motivacionales como complemento, no como sustituto de la terapia o el acompañamiento profesional.
