@@ -19,7 +19,7 @@ ZenPal propone un **acompañamiento digital básico** que ofrezca consejos simpl
 - **Modelos OpenAI:** GPT-5, GPT-5-mini, GPT-5-nano (texto) y GPT-image-1 (imágenes).  
 - **Bibliotecas:** `openai`, `pandas`, `random`, `math`.  
 ## 📂 Contenido del repositorio
-- `notebooks/ZenPal_ClienteFinal.ipynb` → Notebook principal con la demo.  
+- `ZenPal_ClienteFinal.ipynb` → Notebook principal con la demo.  
 - `docs/` → Documentación extendida (introducción, objetivos, metodología, análisis de costos).   
 - `README.md` → Este archivo.
 
