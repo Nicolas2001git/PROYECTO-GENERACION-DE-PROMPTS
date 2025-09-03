@@ -4,11 +4,13 @@
 El proyecto está orientado al área de **Psicología** y busca demostrar cómo el **Fast Prompting** puede aplicarse para crear un asistente que brinde mensajes motivacionales y recordatorios de bienestar de manera **rápida, clara y accesible**.
 ⚠️ **Aviso importante:** ZenPal es un **trabajo académico y demostrativo**.  
 **No reemplaza la ayuda psicológica real ni la atención profesional en salud mental.**
-## 🎯 Objetivos  
+## Objetivos  
 - Mostrar el funcionamiento en una **notebook interactiva** con ejemplos en tiempo real.  
-## 📝 El problema
-
-## 💡 La propuesta
+## El problema
+El estrés, la ansiedad y la falta de motivación afectan a muchas personas en su vida diaria.  
+Sin embargo, el acceso a apoyo profesional inmediato suele ser limitado.  
+ZenPal propone un **acompañamiento digital básico** que ofrece consejos simples y mensajes motivacionales como apoyo complementario.
+## La propuesta
 - **Texto → Texto (microintervenciones)**
   - **Qué hace:** brinda respuestas breves, empáticas y accionables (2–3 pasos concretos).
   - **Qué resuelve:** bloqueos, ansiedad previa a exámenes/presentaciones y parálisis por análisis; ofrece orientación inmediata y simple para “arrancar” sin fricción.
@@ -22,7 +24,7 @@ El proyecto está orientado al área de **Psicología** y busca demostrar cómo 
 - **Python 3 + Jupyter Notebook / Google Colab**  
 - **Modelos OpenAI:** GPT-5, GPT-5-mini, GPT-5-nano (texto) y GPT-image-1 (imágenes).  
 - **Bibliotecas:** `openai`, `pandas`, `random`, `math`.  
-## 📂 Contenido del repositorio
+## Contenido del repositorio
 - `ZenPal_Demo_Clientes.ipynb` → Notebook principal con la demo.  
 - `docs/` → Documentación extendida (introducción, objetivos, metodología, análisis de costos).   
 - `README.md` → Este archivo.
