@@ -7,6 +7,8 @@ El proyecto está orientado al área de **Psicología** y busca demostrar cómo 
 ## 🎯 Objetivos  
 - Mostrar el funcionamiento en una **notebook interactiva** con ejemplos en tiempo real.  
 ## 📝 El problema
+
+## 💡 La propuesta
 - **Texto → Texto (microintervenciones)**
   - **Qué hace:** brinda respuestas breves, empáticas y accionables (2–3 pasos concretos).
   - **Qué resuelve:** bloqueos, ansiedad previa a exámenes/presentaciones y parálisis por análisis; ofrece orientación inmediata y simple para “arrancar” sin fricción.
@@ -16,11 +18,6 @@ El proyecto está orientado al área de **Psicología** y busca demostrar cómo 
 - **Fast Prompting (prompts cortos y específicos)**
   - **Qué hace:** usa prompts breves, claros y versionables con roles mínimos y delimitadores.
   - **Qué resuelve:** tiempos de iteración largos y ruido en las respuestas; mejora el foco de la salida y reduce el consumo de tokens, habilitando pruebas rápidas A/B.
-## 💡 La propuesta
-- **Texto → Texto:** respuestas breves, empáticas y útiles.  
-- **Texto → Imagen:** pósters motivacionales generados automáticamente.  
-- **Fast Prompting:** prompts cortos, específicos y fáciles de ajustar.  
-- **Optimización de costos:** cálculo en tiempo real de tokens y precios de uso.
 ## ⚙️ Herramientas
 - **Python 3 + Jupyter Notebook / Google Colab**  
 - **Modelos OpenAI:** GPT-5, GPT-5-mini, GPT-5-nano (texto) y GPT-image-1 (imágenes).  
