@@ -66,7 +66,7 @@ Póster motivacional minimalista con la frase "Un paso a la vez",
 tipografía estilo manuscrito, colores pastel suaves (crema, durazno, celeste claro),
 diseño centrado, fondo limpio, aspecto estético y moderno, sin objetos extra.
 
-Imagen Generada:
+Imagen Generada: En archivo "imagenes"
 
 ⚡ Fast Prompting en Acción
 Uso de roles (system, user) para delimitar el tono y la longitud de las respuestas.
