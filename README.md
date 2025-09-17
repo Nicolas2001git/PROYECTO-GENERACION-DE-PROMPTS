@@ -62,11 +62,10 @@ Qué resuelve: Baja adherencia a hábitos y falta de motivación sostenida.
 
 Ejemplo de Prompt Usado: 
 
-text
-Copiar código
 Póster motivacional minimalista con la frase "Un paso a la vez",
 tipografía estilo manuscrito, colores pastel suaves (crema, durazno, celeste claro),
 diseño centrado, fondo limpio, aspecto estético y moderno, sin objetos extra.
+
 Imagen Generada:
 
 ⚡ Fast Prompting en Acción
