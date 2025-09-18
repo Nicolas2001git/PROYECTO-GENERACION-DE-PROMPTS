@@ -8,7 +8,7 @@ Su objetivo es demostrar cómo el **Fast Prompting** puede aplicarse para crear 
 
 ---
 
-## 🎯 Objetivos del Proyecto
+## Objetivos del Proyecto
 
 - Demostrar el funcionamiento de **Fast Prompting** en una notebook interactiva.
 - Generar **microintervenciones** (Texto → Texto) útiles para aliviar ansiedad, estrés o bloqueo.
@@ -17,7 +17,7 @@ Su objetivo es demostrar cómo el **Fast Prompting** puede aplicarse para crear 
 
 ---
 
-## 🧩 El Problema
+## El Problema
 
 El estrés, la ansiedad y la falta de motivación afectan a muchas personas en su vida diaria.  
 El acceso a apoyo profesional inmediato suele ser limitado, especialmente en contextos de estudio o trabajo remoto.  
@@ -26,9 +26,9 @@ ZenPal propone un **acompañamiento digital básico** que ofrece consejos simple
 
 ---
 
-## 💡 La Propuesta de Solución
+## La Propuesta de Solución
 
-### 🗨️ Texto → Texto (Microintervenciones)
+### Texto → Texto (Microintervenciones)
 - **Qué hace:** Brinda respuestas breves, empáticas y accionables (exactamente 2 pasos concretos).
 - **Qué resuelve:** Ansiedad previa a exámenes, parálisis por análisis, bloqueos mentales.
 - **Ejemplo de Prompt Usado:**
@@ -55,7 +55,7 @@ Paso 1: Escribe en pocas palabras cómo te sientes y qué pudo causarlo.
 Paso 2: Haz algo pequeño que te reconforte —escucha tu canción favorita, toma algo caliente o habla con alguien de confianza.
 
 
-🎨 Texto → Imagen (Pósters Motivacionales)
+ Texto → Imagen (Pósters Motivacionales)
 Qué hace: Genera imágenes motivacionales minimalistas para refuerzo positivo y recordatorios visuales.
 
 Qué resuelve: Baja adherencia a hábitos y falta de motivación sostenida.
@@ -68,18 +68,18 @@ diseño centrado, fondo limpio, aspecto estético y moderno, sin objetos extra.
 
 Imagen Generada: En archivo "imagenes"
 
-⚡ Fast Prompting en Acción
+Fast Prompting en Acción
 Uso de roles (system, user) para delimitar el tono y la longitud de las respuestas.
 Prompts cortos y claros, fáciles de versionar y ajustar.
 Iteración rápida: optimización de tokens para reducir costo y tiempo de prueba.
 
-⚙️ Herramientas y Tecnologías
+Herramientas y Tecnologías
 Lenguaje: Python 3
 Entorno: Jupyter Notebook / Google Colab
 Modelos OpenAI: gpt-4o / gpt-4o-mini (texto) y gpt-image-1 (imágenes)
 Bibliotecas: openai, IPython.display, json, base64
 
-📂 Contenido del Repositorio
+Contenido del Repositorio
 notebook/ZenPal_Demo_Clientes.ipynb → Notebook principal con la demo.
 assets/images/ → Resultados visuales generados.
 README.md → Este archivo.
